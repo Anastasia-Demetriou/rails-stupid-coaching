@@ -1,0 +1,29 @@
+// Place all the styles related to the answer controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.container {
+  border: solid;
+  color: gray;
+  background-color: rgb(255, 245, 245);
+  box-shadow: 1px 2px 4px gray;
+}
+
+h1 {
+  color: gray;
+}
+
+.box {
+  font-size: 12px;
+  padding: 12px 28px;
+  border-radius: 12px;
+  border: solid;
+  border-color: gray;
+  list-style-type: none;
+  box-shadow: 1px 2px 4px;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  color: rgb(49, 61, 170);
+
+}
